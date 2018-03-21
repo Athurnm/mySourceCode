@@ -1,0 +1,1 @@
+gcc -o CandyCrush main.c matrix.c point.c save_load.c stacklist.c menu.c
